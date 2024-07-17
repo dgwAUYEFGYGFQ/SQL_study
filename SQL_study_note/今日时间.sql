@@ -1,0 +1,1 @@
+select time_format(now(), '%h:%i %p')   
